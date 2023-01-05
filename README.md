@@ -80,7 +80,9 @@ El análisis exploratorio de datos (EDA) se realizó en Power BI mediante DAX y 
 - Dashboard:
 El dashboard se realizó en Power BI y se encuentra en un archivo llamado "pi03_análisis_dashboard".  
 <hr>    
+
 ## **KPI´S**   
+
 - `Variacion trimestral cada 100 hogares:` este KPI me permitiría ver cómo ha cambiado la penetración del internet en los hogares a lo largo del tiempo. 
 
 - `Irecimiento de tecnologias:` este KPI mide el crecimiento en el uso de diferentes tecnologías de internet en Argentina, esto me permitiría ver cómo está evolucionando la infraestructura de internet en la región.
